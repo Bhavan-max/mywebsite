@@ -1,0 +1,21 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#clock{
+    font-size: 6rem;
+    font-weight: 1000;
+    padding: 25px 30px;
+    border-radius: 10px;
+    border: 5px solid #fff;
+    color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.coontainer{
+    background-color: linear gradient(45deg,#313131,#080);
+    color: #fff;
+}
